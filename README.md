@@ -33,7 +33,7 @@ Run the following command at the root of your project and answer the prompted qu
 
 mysql -u root -p
 
-Enter PW when promted
+Enter password when promted
 
 source db/schema.sql
 
